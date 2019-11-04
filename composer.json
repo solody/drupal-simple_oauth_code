@@ -13,6 +13,6 @@
         "source": "http://cgit.drupalcode.org/simple_oauth_code"
     },
     "require": {
-        "drupal/simple_oauth": "^3.0"
+        "drupal/simple_oauth": "^4.0"
     }
 }
